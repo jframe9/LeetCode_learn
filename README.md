@@ -3,3 +3,4 @@
    
    I will study it.
    1. length of the last word
+   2. is vaild brackets
