@@ -14,9 +14,10 @@
 
 def isVaild(s):
     while '{}' in s or '()' in s or '[]' in s:
+        # 从内到外替换
         s = s.replace('{}', '')
         s = s.replace('[]', '')
         s = s.replace('()', '')
-        print(s)
+    print(len(s))
 
-isVaild("([){]}")
+isVaild("{[[()]}")
