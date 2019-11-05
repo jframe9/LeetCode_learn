@@ -10,7 +10,6 @@
 
 strs = "a"
 
-print(1111)
 
 def get_last_str(strs):
     # 需要去除字符串两端的空格
