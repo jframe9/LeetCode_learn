@@ -13,3 +13,7 @@ print(ls)
 word = 'aaa'
 
 print(word.istitle())
+
+exam = [1, 2, 3, 4, 4, 3]
+
+print(exam.index(4))
