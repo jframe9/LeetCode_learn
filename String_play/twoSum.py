@@ -37,6 +37,10 @@ def twoSumanother(nums, target):
         hashmap[num] = index
     return None
 
-nums = [2, 7, 3, 11, 6, 15]
-ls = twoSumanother(nums, 9)
-print(ls)
+# nums = [2, 7, 3, 11, 6, 15]
+# ls = twoSumanother(nums, 9)
+# print(ls)
+
+# y = int(float("5.5"))
+#
+
